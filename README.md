@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lebogang2004
-- 👀 I only started a few day ago.
+- 👀 I only started a few days ago.
 - 🌱 I’m currently learning ... HTML,CSS and Javascript
 - 📫 How to reach me ... sekgobelatebogophilimon@gmail.com
 
